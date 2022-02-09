@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HDGeeks
-- 👀 I’m interested in android development and asp.net web api's
-- 🌱 I’m currently learning kotlin and python
-- 💞️ I’m looking to collaborate on any project related with win forms and VB.net ,SQL databases
+- 👀 I’m interested in android development , python django web development
+- 🌱 I’m currently working on web development .
+- 💞️ I’m looking to collaborate on any project related with web development using python and django.
 - 📫 How to reach me ,dannyhd88@gmail.com
 
 <!---
