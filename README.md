@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HDGeeks
-- 👀 I’m interested in android development , python django web development
+- 👀 I’m interested in Cliud development , Backend web development
 - 🌱 I’m currently working on web development .
-- 💞️ I’m looking to collaborate on any project related with web development using python and django.
+- 💞️ I’m looking to collaborate on any project related with web development using python and java .Aws / azure .
 - 📫 How to reach me ,dannyhd88@gmail.com
 
 <!---
